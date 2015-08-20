@@ -16,4 +16,9 @@ public class HelloGit {
 
 		//come from windows
     }
+
+    public String devMethod(){
+
+        return "this is dev method";
+    }
 }
