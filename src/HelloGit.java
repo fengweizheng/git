@@ -18,7 +18,7 @@ public class HelloGit {
     }
 
     public String devMethod(){
-
+        //mac mark
         return "this is dev method";
     }
 }
