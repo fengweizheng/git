@@ -34,4 +34,4 @@ src/main/webapp/static/media/meituan.mp3
 *.mymetadata*
 *META-INFn*
 *bin/*
-
+.*
